@@ -1,0 +1,95 @@
+body
+{
+	margin: 0px auto;
+	padding: 0;
+}
+.main
+{
+	width: 1430px;
+	margin:0px auto;
+	padding:0;
+}
+.menu
+{
+	width: 1450px;
+	margin: 0px auto;
+	padding: 0;
+}
+.slider
+{
+	width: 1430px;
+	height:600px;
+	margin: 0px auto;
+	padding: 0;
+}
+.conup
+{
+	width: 1430px;
+
+	margin: 0px auto;
+	padding: 0;
+}
+.conup1
+{
+	width: 1430px;
+	margin: 0px auto;
+	padding: 0;
+}
+.conup2
+{
+	width: 1430px;
+	height: 1000px;
+	margin: 0px auto;
+	padding: 0;
+}
+.conup3
+{
+	width: 1430px;
+	height: 700px;
+	
+	overflow: hidden;
+	margin:0px auto;
+	color: white;
+	border-bottom: 3px solid#E9EAEE;
+	padding: 30px 0px;
+	background-image: url("image/l56.webp");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	margin-top: -300px;	
+}
+.conup4
+{
+	width: 1430px;
+	margin: 0px auto;
+	padding: 0;
+}
+.conup5
+{
+	width: 1430px;
+	margin: 0px auto;
+	padding: 0;
+}
+.conup6
+{
+	width: 1430px;
+	margin: 0px auto;
+	padding: 0;
+}
+.conup7
+{
+	width: 1430px;
+	margin: 0px auto;
+	padding: 0;
+}
+.conup8
+{
+	width: 1430px;
+	margin: 0px auto;
+	padding: 0;
+}
+.footer
+{
+	width: 1430px;
+	margin: 0px auto;
+	padding: 0;
+}
